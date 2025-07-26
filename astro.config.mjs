@@ -5,9 +5,9 @@ import vercel from '@wkovacs64/astro-vercel-static-headers';
 // https://astro.build/config
 export default defineConfig({
   adapter: vercel({
-    // experimentalStaticHeaders: true,
+    experimentalStaticHeaders: true,
   }),
   experimental: {
-    // csp: true,
+    csp: true,
   },
 });
