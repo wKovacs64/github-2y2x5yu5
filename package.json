@@ -10,7 +10,7 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@wkovacs64/astro-vercel-static-headers": "8.2.1-89fe8fde.2",
+    "@wkovacs64/astro-vercel-static-headers": "8.2.1-89fe8fde.3",
     "astro": "^5.11.0"
   }
 }
