@@ -14,4 +14,8 @@ export default defineConfig({
   experimental: {
     csp: true,
   },
+  image: {
+    responsiveStyles: true,
+    layout: 'constrained',
+  }
 });
